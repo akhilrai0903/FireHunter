@@ -44,6 +44,3 @@ python attack_bot.py
 Option 1: View Profile (Scans for readable data).
 
 Option 2: Blind Write (Forces an update to specific fields like coins, is_vip, etc.).
-
-
-MIT License
